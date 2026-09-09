@@ -5,3 +5,7 @@
 // Estas son nuevas líneas de código añadidas a calculadora.js
 // Estos cambios serán registrados
 // Este es el segundo cambio.
+
+// Esta es nuevamente un cambio a calculadora.js
+// Sin embargo, esta vez es en la branch feature-calculadora.
+// Eso es todo.
